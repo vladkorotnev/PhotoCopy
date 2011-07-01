@@ -1,0 +1,15 @@
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2008\Projects\PhotoCopy\PhotoCopy\bin\Debug\PhotoCopy.exe.config
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2008\Projects\PhotoCopy\PhotoCopy\bin\Debug\PhotoCopy.exe
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2008\Projects\PhotoCopy\PhotoCopy\bin\Debug\PhotoCopy.pdb
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2008\Projects\PhotoCopy\PhotoCopy\bin\Debug\PhotoCopy.xml
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2008\Projects\PhotoCopy\PhotoCopy\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2008\Projects\PhotoCopy\PhotoCopy\obj\Debug\PhotoCopy.Dialog1.resources
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2008\Projects\PhotoCopy\PhotoCopy\obj\Debug\PhotoCopy.Form1.resources
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2008\Projects\PhotoCopy\PhotoCopy\obj\Debug\PhotoCopy.Resources.resources
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2008\Projects\PhotoCopy\PhotoCopy\obj\Debug\PhotoCopy.vbproj.GenerateResource.Cache
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2008\Projects\PhotoCopy\PhotoCopy\obj\Debug\PhotoCopy.exe
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2008\Projects\PhotoCopy\PhotoCopy\obj\Debug\PhotoCopy.xml
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2008\Projects\PhotoCopy\PhotoCopy\obj\Debug\PhotoCopy.pdb
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2008\Projects\PhotoCopy\PhotoCopy\bin\Debug\Interop.WIALib.dll
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2008\Projects\PhotoCopy\PhotoCopy\obj\Debug\Interop.WIALib.dll
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2008\Projects\PhotoCopy\PhotoCopy\obj\Debug\PhotoCopy.vbproj.ResolveComReference.cache

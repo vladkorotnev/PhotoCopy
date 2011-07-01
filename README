@@ -1,0 +1,7 @@
+This program uses WIA to copy files from a photo camera.
+Originally I wrote this for my granny who wasn't able to learn all the Windoze stuff to copy photos and needed a simple, One-Click way to copy her photos. Okay, okay, Three-click way :).
+She speaks Russian, so the program was written in Russian and then translated on my Mac via TextWrangler. The code may contain Cyrillic characters, don't change them. I hope you'll have no encoding problems.
+If you want this in Russian, replace PhotoCopy/Dialog1.Designer.vb with Photocopy/Dialog1.Designer.vb.rus, and Photocopy/Form1.Designer.vb with Photocopy/Form1.Designer.vb.rus
+
+Sincerely,
+~ Vladislav Korotnev
